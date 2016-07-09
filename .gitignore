@@ -250,3 +250,25 @@ paket-files/
 # JetBrains Rider
 .idea/
 *.sln.iml
+
+
+lib/
+obj/
+bin/
+Debug/
+Release/
+Symbols/
+Win32/
+*.bak
+*.old
+*.aps
+*.layout
+*.pdb
+Build/
+*.suo
+CryptoToAdd/
+build/
+*~
+*/.vscode/
+.vscode/
+.vscode
